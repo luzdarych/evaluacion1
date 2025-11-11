@@ -9,5 +9,11 @@
     grid-row: 3/4;
     background-color: blueviolet;
     height: 100px;
+    
 
+}
+.caja1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
