@@ -9,18 +9,24 @@
     grid-row: 3/4;
     background-color: blueviolet;
     height: 100px;
-    
+
 
 }
-.caja1{
+
+.caja1 {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.caja2{
+
+.caja2 {
     grid-column: 4/4;
     grid-row: 4/4;
     background-color: yellow;
-    
+}
 
+.caja2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
