@@ -17,3 +17,10 @@
     justify-content: center;
     align-items: center;
 }
+.caja2{
+    grid-column: 4/4;
+    grid-row: 4/4;
+    background-color: yellow;
+    
+
+}
